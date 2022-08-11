@@ -376,8 +376,9 @@
     text-align: center;
     }
     .image img{
-        display: flexbox;
+        /* display: flexbox; */
         margin: 28px;
+        width: 240px;
        
     }
     .image{
