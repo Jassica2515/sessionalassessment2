@@ -232,8 +232,7 @@
        position: absolute;
        margin-top: 30px;
        margin-left: -260px;
-       -moz-border-radius: 7px;
-       -webkit-border-radius: 7px;
+
      }
      
      .feedback-input {
