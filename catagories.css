@@ -1,0 +1,10 @@
+.cat img{
+    display: flexbox;
+    height: 100%;
+    width: auto;
+    margin: 23px;
+  
+}
+body{
+    background-color: rgb(63, 66, 66);
+}
