@@ -383,6 +383,10 @@
     }
     .image{
         background-color: #2F3238;
+        background-color: #2F3238;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 9%
     }
    
     .footer-content span{
