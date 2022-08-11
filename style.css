@@ -491,14 +491,26 @@ display: block;
   margin-bottom: 20px;
 }
 }
-.footer-below li a{
-  display: flex;
+.footer-below  a{
+  display: flexbox;
+
   align-items: right;
-  /* justify-content: right; */
+  justify-content: right;
   color: white ;
+  /* margin: 20px; */
+  /* overflow-wrap: normal; */
 }  
 
 .image img{
   height: 180px;
   width: 180px;
+}
+
+.card {
+  width: 30%;
+  border: 2px solid pink;
+  margin: 11px;
+}
+.btn-outline-secondary{
+  background-color: gray;
 }
