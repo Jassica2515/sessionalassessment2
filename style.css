@@ -508,9 +508,9 @@ display: block;
 
 .card {
   width: 30%;
-  border: 2px solid pink;
+  border: 2px solid rgb(206, 70, 93);
   margin: 11px;
 }
-.btn-outline-secondary{
-  background-color: gray;
+#button{
+  color: white;
 }
